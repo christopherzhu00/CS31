@@ -1,0 +1,17 @@
+﻿Build started 11/23/2014 2:30:02 AM.
+     1>Project "C:\Users\Lucy\Desktop\CS31\Program Assignment 5 You've Met Your Match\Program Assignment 5 You've Met Your Match\Program Assignment 5 You've Met Your Match.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\Program Assignment 5 You've Met Your Match\Program Assignment 5 You've Met Your Match\match.cpp"
+         match.cpp
+     1>c:\users\lucy\desktop\cs31\program assignment 5 you've met your match\program assignment 5 you've met your match\match.cpp(64): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\lucy\desktop\cs31\program assignment 5 you've met your match\program assignment 5 you've met your match\match.cpp(65): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\lucy\desktop\cs31\program assignment 5 you've met your match\program assignment 5 you've met your match\match.cpp(121): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lucy\desktop\cs31\program assignment 5 you've met your match\program assignment 5 you've met your match\match.cpp(162): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lucy\Desktop\CS31\Program Assignment 5 You've Met Your Match\Debug\Program Assignment 5 You've Met Your Match.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lucy\Desktop\CS31\Program Assignment 5 You've Met Your Match\Debug\Program Assignment 5 You've Met Your Match.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lucy\Desktop\CS31\Program Assignment 5 You've Met Your Match\Debug\Program Assignment 5 You've Met Your Match.lib" /MACHINE:X86 Debug\match.obj
+         Program Assignment 5 You've Met Your Match.vcxproj -> C:\Users\Lucy\Desktop\CS31\Program Assignment 5 You've Met Your Match\Debug\Program Assignment 5 You've Met Your Match.exe
+     1>Done Building Project "C:\Users\Lucy\Desktop\CS31\Program Assignment 5 You've Met Your Match\Program Assignment 5 You've Met Your Match\Program Assignment 5 You've Met Your Match.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.25

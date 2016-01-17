@@ -1,0 +1,14 @@
+﻿Build started 10/14/2014 7:50:19 PM.
+     1>Project "C:\Users\Lucy\Desktop\CS31\C3\C3\C3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt compile_error.cpp
+         compile_error.cpp
+     1>c:\users\lucy\desktop\cs31\c3\c3\compile_error.cpp(14): error C2146: syntax error : missing ';' before identifier 'cin'
+     1>c:\users\lucy\desktop\cs31\c3\c3\compile_error.cpp(23): error C2039: 'unfixed' : is not a member of 'std::basic_ios<char,std::char_traits<char>>'
+     1>c:\users\lucy\desktop\cs31\c3\c3\compile_error.cpp(23): error C2065: 'unfixed' : undeclared identifier
+     1>c:\users\lucy\desktop\cs31\c3\c3\compile_error.cpp(26): error C2065: 'end1' : undeclared identifier
+     1>Done Building Project "C:\Users\Lucy\Desktop\CS31\C3\C3\C3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.74

@@ -1,0 +1,27 @@
+﻿Build started 11/6/2014 8:11:12 PM.
+     1>Project "C:\Users\Lucy\Desktop\CS31\piano\piano\piano.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt piano.cpp
+         piano.cpp
+     1>piano.cpp(67): warning C4018: '<' : signed/unsigned mismatch
+     1>piano.cpp(108): warning C4018: '<' : signed/unsigned mismatch
+     1>piano.cpp(157): warning C4018: '<' : signed/unsigned mismatch
+     1>piano.cpp(161): warning C4018: '<' : signed/unsigned mismatch
+     1>piano.cpp(316): warning C4018: '<' : signed/unsigned mismatch
+     1>piano.cpp(353): warning C4018: '<' : signed/unsigned mismatch
+     1>piano.cpp(388): warning C4018: '<' : signed/unsigned mismatch
+     1>piano.cpp(458): warning C4018: '<' : signed/unsigned mismatch
+     1>piano.cpp(586): warning C4018: '>=' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lucy\Desktop\CS31\piano\Release\piano.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lucy\Desktop\CS31\piano\Release\piano.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lucy\Desktop\CS31\piano\Release\piano.lib" /MACHINE:X86 /SAFESEH Release\piano.obj
+         Generating code
+     1>c:\users\lucy\desktop\cs31\piano\piano\piano.cpp(104): warning C4715: 'isTuneWellFormed' : not all control paths return a value
+     1>c:\users\lucy\desktop\cs31\piano\piano\piano.cpp(384): warning C4715: 'getMultiNote' : not all control paths return a value
+     1>c:\users\lucy\desktop\cs31\piano\piano\piano.cpp(348): warning C4715: 'getSingleNote' : not all control paths return a value
+         Finished generating code
+         piano.vcxproj -> C:\Users\Lucy\Desktop\CS31\piano\Release\piano.exe
+     1>Done Building Project "C:\Users\Lucy\Desktop\CS31\piano\piano\piano.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.91
